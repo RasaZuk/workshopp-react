@@ -3,16 +3,18 @@
     color: white;
     padding: 2rem 4rem;
     margin-left: 7rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .signIn {
     display: flex;
     flex-direction: row;
     height: 3rem;
+    
 }
 
 .emailBtn {
-    width: 63%;
+    width: 62%;
     color: grey;
     background-color: black;
     border: 1px solid grey;
@@ -58,7 +60,7 @@
 .footerList {
     display: flex;
     flex-direction: row;
-    gap: 9.5rem;
+    gap: 9rem;
 }
 
 .footerList div {

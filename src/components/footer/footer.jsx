@@ -8,7 +8,7 @@ export function Footer() {
                 membership.
             </p>
             <div className={style.signIn}>
-                <button className={style.emailBtn}>Email address</button>
+                <input className={style.emailBtn} type="text" placeholder="Email address" />
                 <div className={style.getBtn}>
                     <p>Get Started</p>
                     <svg
