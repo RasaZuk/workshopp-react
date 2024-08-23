@@ -2,6 +2,7 @@
     background-color: black;
     color: white;
     padding: 2rem 4rem;
+    margin-left: 7rem;
 }
 
 .signIn {
@@ -11,7 +12,7 @@
 }
 
 .emailBtn {
-    width: 60%;
+    width: 63%;
     color: grey;
     background-color: black;
     border: 1px solid grey;
@@ -27,7 +28,7 @@
     flex-direction: row;
     align-items: center;
     color: white;
-    gap: 0.8rem;
+    gap: 0.7rem;
     background-color: red;
     border-radius: 5px;
     width: 9rem;
@@ -48,7 +49,7 @@
 }
 
 .footerQuest a {
-    color: grey; 
+    color: grey;
     display: flex;
     flex-direction: row;
     margin-top: 1rem;
@@ -57,11 +58,11 @@
 .footerList {
     display: flex;
     flex-direction: row;
-    gap: 10rem;
+    gap: 9.5rem;
 }
 
-.footerList div {   
-   margin: 2rem 0 2rem 0;
+.footerList div {
+    margin: 2rem 0 2rem 0;
 }
 
 .languageChange {
