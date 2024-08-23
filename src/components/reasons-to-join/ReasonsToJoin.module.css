@@ -4,7 +4,10 @@
     gap: 5px;
     padding: 1rem;
     margin: 2rem 10rem 0 10.5rem;
-   
+}
+
+.reasonsList div {
+    position: relative;
 }
 
 .reason {
@@ -17,7 +20,7 @@
     color: #AAABB6;
     border-radius: 1rem;
     height: 15.5rem;
-    width: 15.5rem;
+    width: 16rem;
 }
 
 .title {
@@ -31,8 +34,9 @@
 }
 
 .reason .icon {
-    width: 3rem;
-    margin-left: 9rem;
-    margin-top: 1rem;
+    width: 4rem;
+    top: 13.5rem;
+    left: 12rem;
+    position: absolute;
        
 }
